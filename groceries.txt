@@ -6,3 +6,5 @@ mayo
 bread
 chili
 hot dogs
+Coke
+Diet Coke
